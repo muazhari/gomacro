@@ -2,8 +2,6 @@ module github.com/cosmos72/gomacro
 
 go 1.22.0
 
-toolchain go1.24.7
-
 require (
 	github.com/mattn/go-runewidth v0.0.15
 	github.com/peterh/liner v1.2.2
